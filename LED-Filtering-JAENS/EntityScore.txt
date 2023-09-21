@@ -1,4 +1,0 @@
-Avg_sourcePrecision:0.9962
-Avg_targetPrecision:0.4238
-Avg_targetRecall:0.535
-Avg_targetF1:0.4511
