@@ -1,0 +1,5 @@
+Avg_Rouge1score:0.3512
+Avg_Rouge2score:0.14
+Avg_RougeLscore:0.2157
+Avg_RougeLSumscore:0.2996
+Avg_Meteorscore:0.3208
